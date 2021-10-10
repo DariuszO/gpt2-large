@@ -7,14 +7,14 @@ info:
 
       generate senctence based gpt2-large model
   contact:
-    name: Ainizer - Jeong Hyunsu
+    name: Ainizer - DariuszO
   version: "2.0"
   license:
     name: Apache License 2.0
     url: https://github.com/huggingface/transformers/blob/master/LICENSE
 
 servers:
-  - url: https://main-gpt2-large-jeong-hyun-su.endpoint.ainize.ai
+  - url: https://gpt2-large.dariuszo.endpoint.ainize.ai
 
 paths:
   /gpt2-large/short:
